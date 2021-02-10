@@ -111,7 +111,7 @@ jobs:
           arm-unknown-linux-musleabihf,
           # FIXME: Disabled because currently broken, see:
           # https://github.com/rust-lang/libc/issues/1591
-          # asmjs-unknown-emscripten,
+          asmjs-unknown-emscripten,
           i686-linux-android,
           i686-unknown-linux-musl,
           mips-unknown-linux-gnu,
